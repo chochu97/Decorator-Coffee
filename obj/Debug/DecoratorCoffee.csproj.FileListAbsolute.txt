@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\bin\Debug\DecoratorCoffee.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\bin\Debug\DecoratorCoffee.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\bin\Debug\DecoratorCoffee.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\obj\Debug\DecoratorCoffee.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\obj\Debug\DecoratorCoffee.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\obj\Debug\Decorato.3BB000D6.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\obj\Debug\DecoratorCoffee.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\DecoratorPatron\DecoratorCoffee\obj\Debug\DecoratorCoffee.pdb
